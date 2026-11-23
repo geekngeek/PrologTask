@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PrologMobile.Inventory.Api/PrologMobile.Inventory.Api.csproj" />
+    <Project Path="src/PrologMobile.Inventory.Core/PrologMobile.Inventory.Core.csproj" />
+    <Project Path="src/PrologMobile.Inventory.Infrastructure/PrologMobile.Inventory.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PrologMobile.Inventory.Core.Tests/PrologMobile.Inventory.Core.Tests.csproj" />
+    <Project Path="tests/PrologMobile.Inventory.Infrastructure.Tests/PrologMobile.Inventory.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>

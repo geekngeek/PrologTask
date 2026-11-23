@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\PrologMobile.Inventory.Core\PrologMobile.Inventory.Core.csproj" />
+    <ProjectReference Include="..\PrologMobile.Inventory.Infrastructure\PrologMobile.Inventory.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>prologmobile-inventory-a7c1e4b2-6d58-4f0a-9c33</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
